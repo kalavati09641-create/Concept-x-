@@ -1,0 +1,6 @@
+{
+  "name": "ConceptX",
+  "description": "Smart Class 12 MP Board (PCM) learning platform with concept-first notes in Hindi, physics diagrams, formula bank, quizzes, and live AI Teacher.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
